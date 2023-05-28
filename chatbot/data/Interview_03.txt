@@ -1,0 +1,31 @@
+Customer: Hi, I recently had an issue with my 2012 Acura RDX. I noticed a vibration while driving in town, as if I had flat tires, and especially when I was accelerating.
+
+Agent: I'm sorry to hear that. That definitely sounds like an issue that needs to be addressed. Can you tell me what steps you've taken to resolve the issue?
+
+Customer: After a week, I had my SUV checked at the garage. They had to replace the right and left line axle assemblies which was quite expensive. The mechanics told me that it was completely finished and found it highly unusual for a 2012 Acura RDX.
+
+Agent: I see. That does sound like a significant repair, especially for a car that's only 9 years old. Have you noticed any other issues with the car recently?
+
+Customer: No, just the vibration issue.
+
+Agent: Alright. It's possible that the axle assemblies were damaged due to wear and tear, or there could be another underlying issue causing the vibration. I would recommend bringing the car into our service center so we can take a closer look and diagnose the problem.
+
+Customer: Okay, that sounds like a good idea. How soon can I get an appointment?
+
+Agent: Let me check our availability. We have an opening next Thursday at 10 am. Would that work for you?
+
+Customer: Yes, that works for me. Can you give me an estimate of how long it might take to diagnose the issue?
+
+Agent: It's difficult to say for sure without knowing exactly what the problem is, but our technicians will be able to give you an estimate once they've had a chance to diagnose the issue. In the meantime, it might be helpful to take note of any other issues or symptoms you notice while driving the car.
+
+Customer: Okay, that's good to know. Is there anything I should do before bringing the car in?
+
+Agent: It's always a good idea to make sure the car is clean and free of clutter so our technicians can easily access all parts of the car. You might also want to bring any documentation related to previous repairs or maintenance on the car.
+
+Customer: Alright, I'll make sure to do that. Thanks for your help.
+
+Agent: You're welcome. We'll do our best to diagnose and resolve the issue as quickly and efficiently as possible. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thanks again.
+
+Agent: You're welcome. Don't hesitate to reach out if you have any further questions or concerns. Have a great day!

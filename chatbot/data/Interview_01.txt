@@ -1,0 +1,27 @@
+Customer: Hi, I'm having an issue with the airbag in my car. It doesn't seem to be functioning properly.
+
+Agent: I'm sorry to hear that. Can you tell me a bit more about the issue?
+
+Customer: Well, the airbag light is constantly on, even when I'm driving. And when I try to turn it off, it just comes back on again.
+
+Agent: I see. That definitely sounds like an issue we need to address. Can you please give me your car's make, model, and year so I can look up the specific details?
+
+Customer: Sure, it's a Toyota Corolla 2019.
+
+Agent: Thanks for that information. It looks like there have been some reported issues with the airbags in that particular model. The good news is that we can fix it for you free of charge. We just need you to bring your car into our service center.
+
+Customer: Okay, that sounds good. Do I need to make an appointment or can I just bring it in whenever?
+
+Agent: We do recommend making an appointment so we can have a technician available to work on your car when you arrive. But if that's not possible, you can bring it in and we'll do our best to accommodate you.
+
+Customer: Alright, I'll make an appointment then. When's the earliest you have available?
+
+Agent: Let me check for you. How about next Thursday at 10am? Does that work for you?
+
+Customer: Yes, that works. Thank you for your help.
+
+Agent: Of course, happy to help. Is there anything else I can assist you with today?
+
+Customer: No, that's all. Thank you again.
+
+Agent: You're welcome. Have a great day!
