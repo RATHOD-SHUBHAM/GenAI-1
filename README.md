@@ -15,6 +15,8 @@ Also, The two key principles for writing effective prompts:
 
 Here, We also build a custom chatbot. 
 
+Best Course: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
 ---
 ## 2] Chatbot using the OpenAI
 
