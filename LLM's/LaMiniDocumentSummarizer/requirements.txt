@@ -1,0 +1,7 @@
+langchain
+streamlit
+transformers
+sentence_transformers
+sentencepiece
+PyPDF
+accelerate

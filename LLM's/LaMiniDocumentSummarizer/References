@@ -1,0 +1,13 @@
+
+* PDF : https://python.langchain.com/docs/modules/data_connection/document_loaders/pdf
+* Document loaders : https://python.langchain.com/docs/modules/data_connection/document_loaders/
+
+* Summarization : https://python.langchain.com/docs/use_cases/summarization
+                  https://huggingface.co/transformers/v4.8.2/main_classes/pipelines.html?highlight=summarization#transformers.SummarizationPipeline
+                  https://github.com/huggingface/transformers/blob/v4.34.1/src/transformers/pipelines/text2text_generation.py#L217
+
+
+* Transformer: https://huggingface.co/docs/transformers/model_doc/t5
+* from_pretrained: https://huggingface.co/docs/transformers/v4.34.1/en/main_classes/model#transformers.PreTrainedModel.from_pretrained
+
+* Recursively split by character: https://python.langchain.com/docs/modules/data_connection/document_transformers/text_splitters/recursive_text_splitter
