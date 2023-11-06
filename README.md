@@ -10,7 +10,7 @@ This repo will describe how LLMs work, provide best practices for prompt enginee
   4. Expanding (e.g., automatically writing emails)
 
 Also, The two key principles for writing effective prompts:
-  1. Write clear and Specific Instruction.
+  1. Write clear and Specific Instructions.
   2. Give Model the time to think.
 
 Here, We also build a custom chatbot. 
@@ -36,4 +36,8 @@ To create a chatbot using the OpenAI, you can follow these step-by-step instruct
 ---
 
 <img width="1422" alt="Screenshot 2023-03-19 at 8 27 00 AM" src="https://user-images.githubusercontent.com/58945964/226178213-01a388cc-c729-45c3-a5fa-40c6c6b2c65b.png">
+
+---
+
+https://github.com/RATHOD-SHUBHAM/GenAi/assets/58945964/84dab948-47a1-4cde-bc7a-ff0f3f64f99e
 
