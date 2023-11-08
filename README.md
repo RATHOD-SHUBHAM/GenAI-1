@@ -39,5 +39,13 @@ To create a chatbot using the OpenAI, you can follow these step-by-step instruct
 
 ---
 
+# Multi-Chat PDF:
+
+<img width="1885" alt="ScreenShot" src="https://github.com/RATHOD-SHUBHAM/GenAi/assets/58945964/008c1ccb-4921-4796-afa9-530407153bd0">
+
+
+
+---
+
 https://github.com/RATHOD-SHUBHAM/GenAi/assets/58945964/84dab948-47a1-4cde-bc7a-ff0f3f64f99e
 
