@@ -1,0 +1,45 @@
+
+# PermissionError: [Errno 1] Operation not permitted
+
+https://stackoverflow.com/questions/58479686/permissionerror-errno-1-operation-not-permitted-after-macos-catalina-update
+
+
+
+# lmxml Error
+#### ImportError: dlopen(/lib/python3.10/site-packages/lxml/etree.cpython-310-darwin.so, 0x0002): symbol not found in flat namespace '_exsltDateXpathCtxtRegister'
+###### Unable to install lxml on M1 mac:
+
+https://github.com/Significant-Gravitas/AutoGPT/issues/16
+
+brew install libxml2
+brew install libxslt
+
+pip install lxml==4.9.2
+
+
+# libmagic is unavailable but assists in filetype detection on file-like objects.
+brew install libmagic
+pip3 install python-magic
+
+https://gist.github.com/eparreno/1845561
+
+https://stackoverflow.com/questions/73398716/difficulty-importing-module-in-python-that-was-installed-via-homebrew-on-m1-pro
+
+
+
+## how to fix no atribute 'name' error in a list of files in
+
+You are trying to access name and type of list of files if "multiple files" is checked.
+https://stackoverflow.com/questions/67541447/how-to-fix-no-atribute-name-error-in-a-list-of-files-in-python
+
+
+## PydanticUserError: If you use `@root_validator` with pre=False (the default) you MUST specify `skip_on_failure=True`
+
+https://stackoverflow.com/questions/76934579/pydanticusererror-if-you-use-root-validator-with-pre-false-the-default-you
+
+
+### Module 'openai' has no attribute 'Embedding'
+https://github.com/langchain-ai/langchain/issues/12954
+
+Uninstalling the current openai package, and installing openai==0.28.1 is the current solution.
+

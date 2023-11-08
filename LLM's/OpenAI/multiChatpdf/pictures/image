@@ -1,0 +1,6 @@
+# To add image to htmlTemplate.py file
+
+1] Go to https://imgbb.com/
+2] Upload an image.
+3] Embed codes as HTML full linked
+4] Replace the <img> tag in htmlTemplate.py with <img> from imgbb
