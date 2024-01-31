@@ -1,4 +1,6 @@
-# GenAi
+# GenAI-1
+---
+### Note: [GenAI-2](https://github.com/RATHOD-SHUBHAM/GenAI-2) repo can be found here.
 ---
 ## 1] Prompt Engineering
 
