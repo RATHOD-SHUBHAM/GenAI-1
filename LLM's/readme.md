@@ -5,3 +5,5 @@
 ---
 
 # Chat with Multiple PDFs using OpenAI and Langchain.
+
+<img width="1885" alt="ScreenShot" src="https://github.com/RATHOD-SHUBHAM/GenAi/assets/58945964/1abf8f53-f490-4608-b5a8-709cd3a4f937">
