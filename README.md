@@ -49,3 +49,10 @@ To create a chatbot using the OpenAI, you can follow these step-by-step instruct
 
 https://github.com/RATHOD-SHUBHAM/GenAi/assets/58945964/84dab948-47a1-4cde-bc7a-ff0f3f64f99e
 
+---
+
+# Document Summarization with LaMini
+
+![WhatsApp Image 2023-11-01 at 2 35 13 PM](https://github.com/RATHOD-SHUBHAM/GenAi/assets/58945964/cc5ea599-ad97-4271-84e3-c6e0605dd371)
+
+
